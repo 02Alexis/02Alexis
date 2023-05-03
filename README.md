@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://twitter.com/lexis44550229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lexis" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/alexis-tamayo-6342a91ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis tamayo" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/matq.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/matq.01/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/matq.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matq.01" height="30" width="40" /></a>
 </p>
 
 ### 👨‍💻 About Me :
