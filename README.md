@@ -13,7 +13,6 @@
 - 💬 Ask me about HTML, SCSS, Javascript, Python 
 - 📫 How to reach me **m_chael1012@hotmail.com**
 - 🌱 I’m currently learning React.js
-- 🌐 Portfolio [https://02alexis.github.io/Portfolio/](https://02alexis.github.io/Portfolio/)
 
 ## Languages & Tools 👨‍💻 🛠:
 
