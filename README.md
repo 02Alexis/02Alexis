@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me :
 - 💬 Ask me about HTML, SCSS, Javascript, Python 
 - 📫 How to reach me **m_chael1012@hotmail.com**
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Nextjs
 
 ## Languages & Tools 👨‍💻 🛠:
 
