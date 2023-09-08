@@ -11,8 +11,9 @@
 
 ### 👨‍💻 About Me :
 - 💬 Ask me about HTML, SCSS, Javascript, Python 
-- 📫 How to reach me **m_chael1012@hotmail.com**
-- 🌱 I’m currently learning Nextjs
+- 📫 How to reach me **alexis.tamayo.quintero@gmail.com**
+- 🌱 I’m currently learning Nextjs, Nestjs and MongoDB
+- Portfolio <a href="https://portfolio-one-khaki-94.vercel.app/" target="_blank" rel="noreferrer">
 
 ## Languages & Tools 👨‍💻 🛠:
 
