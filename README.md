@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/99287560/235987891-8ba9bd2a-4856-444e-9d48-3070c09c8086.gif" alt="css3" width="60" height="40"/> Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/matq_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lexis" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/alexis-tamayo-6342a91ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis tamayo" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alexis-tamayo-quintero-frontend/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis tamayo" height="30" width="40" /></a>
   <a href="https://www.instagram.com/matq.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matq.01" height="30" width="40" /></a>
 </p>
 
